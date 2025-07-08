@@ -1,5 +1,5 @@
 {
-  "name": "Falcon-Api UI",
+  "name": "Qiee API's",
   "version": "v1.0.0",
   "description": "Simple and easy to use API.",
   "bannerImage": "/src/banner.jpg",
@@ -7,7 +7,7 @@
     "status": "Online!"
   },
   "apiSettings": {
-    "creator": "FlowFalcon", 
+    "creator": "Qiee", 
     "apikey": ["falcon-api"]
   },
   "categories": [
