@@ -4,5 +4,17 @@
     "date": "2025-06-015",
     "title": "Update Tampilan API!", 
     "message": "Sekarang ada update baru dari UI API, Silahkan cek informasinya di saluran WhatsApp kami"
+  },
+  {
+    "id": "#02",
+    "date": "2025-07-09",
+    "title": "Update Penambahan API!", 
+    "message": "Sekarang ada update baru dari UI API, Silahkan cek informasinya di saluran WhatsApp kami"
+  },
+  {
+    "id": "#03",
+    "date": "2025-07-09",
+    "title": "Update Fixed API Error!", 
+    "message": "Sekarang ada update baru dari UI API, Silahkan cek informasinya di saluran WhatsApp kami"
   }
 ]
